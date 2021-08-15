@@ -1,0 +1,8 @@
+{
+    "username":"defaultUser",
+    "id":"crypto.sha1(username,timestamp,rand)",
+    "password":"crypto.sha512(passwd)",
+    "registered":["Date.onReg()"],
+    "lastLogin":["Date.onLogin()"],
+    "accessLvl":0
+}

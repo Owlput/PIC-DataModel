@@ -1,0 +1,16 @@
+{
+    "contentType":"text-article",
+    "pri":"crypto.sha1(body)",
+    "timeStamps":["Date.Created.toISOString()","Date.LastMod.toISOString()"],
+    "tags":[["tag1","votes"],["tag2","votes"],["tag3","votes"]],
+    "isHelpful":["yesCount","noCount"],
+    "allowComment":["boolean","commentDoc_id"],
+    "visibility":0,
+    "bodyMarkupLang":"md",
+    "body":{
+        "heading":"AritcleHeading",
+        "Author":["uid1","name"],
+        "articleBody":"",
+        "license":[["content","CC0"],["code","MIT"]]
+    }
+}
