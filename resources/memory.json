@@ -1,9 +1,9 @@
-{   
-    "pri":"",
-    "contentType":"text-memory",
-    "author":"uid",
-    "timeStamps":["Date.Created.toISOString()","Date.LastMod.toISOString()"],
-    "bodyMarkupLang":"md",
-    "visibility":0,
-    "body":""   
+{
+  "pri": "",
+  "contentType": "text-memory",
+  "author": "uid",
+  "timeStamps": ["Date.Created", "Date.LastMod"],
+  "bodyMarkupLang": "md",
+  "visibility": 0,
+  "body": ""
 }

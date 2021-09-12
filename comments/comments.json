@@ -1,0 +1,32 @@
+{
+  "pri": "",
+  "cmtCount": 3,
+  "cmtType": "main",
+  "next": "pri",
+  "cmts": [
+    {
+      "uuid": "",
+      "timestamp": "",
+      "upDown": [1, 1],
+      "visibility": 0,
+      "subCommentsDocPRI": "",
+      "body": ""
+    },
+    {
+      "uuid": "",
+      "timestamp": "",
+      "upDown": [1, 1],
+      "visibility": 0,
+      "subCmtDocPRI": "",
+      "body": ""
+    },
+    {
+      "uuid": "",
+      "timestamp": "",
+      "upDown": [1, 1],
+      "visibility": 0,
+      "innerCommentsDocPRI": "",
+      "body": ""
+    }
+  ]
+}
