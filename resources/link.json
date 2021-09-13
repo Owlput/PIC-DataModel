@@ -1,13 +1,12 @@
 {
-  "contentType": "link",
   "title": "Website",
   "url": "example.com",
-  "description": "",
+  "desp": "",
   "tags": [
     ["tag1", "votes"],
     ["tag2", "votes"],
     ["tag3", "votes"]
   ],
   "status": ["status1", "status2"],
-  "visibility": 0
+  "visb": 0
 }
