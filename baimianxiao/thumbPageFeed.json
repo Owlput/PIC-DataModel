@@ -1,0 +1,16 @@
+{
+  "thumbs": [
+    {
+      "thumb": ["title", "src"],
+      "author": ["name", "profileSrc"]
+    },
+    {
+      "thumb": ["title", "src"],
+      "author": ["name", "profileSrc"]
+    },
+    {
+      "thumb": ["title", "src"],
+      "author": ["name", "profileSrc"]
+    }
+  ]
+}

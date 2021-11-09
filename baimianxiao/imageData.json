@@ -1,0 +1,17 @@
+{
+    "uri":"",
+    "title":"",
+    "author":["name","authorId"],
+    "tags":[
+        ["name",1]
+    ],
+    "source":{
+        "this":"filename",
+        "other":[["platfrom","url"],["platfrom","url"]],
+        "from":"url/original-author"
+    },
+    "license":{
+        "type":"cc/custom",
+        "source":"url"
+    }
+}

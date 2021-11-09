@@ -7,10 +7,5 @@
     ["tag3", "votes"]
   ],
   "isUseful": ["yesCount", "noCount"],
-  "comments": [
-    "commentDocPRI1",
-    "commentDocPRI2",
-    "commentDocPRI3",
-    "commentDocPRI4"
-  ]
+  "comments": "commentIndexPRI"
 }
